@@ -1,6 +1,6 @@
 <h1 align="center">
     <img alt="Docker" src="assets/docker-logo.png" height="130px" />
-    <br>Curso de Docker<br/>
+    <br>📚 🐳 Curso de Docker 🐳 📚<br/>
 </h1>
 
 <p align="center">
