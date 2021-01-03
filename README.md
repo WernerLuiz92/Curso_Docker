@@ -6,31 +6,31 @@
 <p align="center">
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://www.cod3r.com.br/courses/docker">cod3r.com.br</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
-    
+
+## Sobre o Curso
+
+...
+
+### O que Aprendemos
+
+...
+
 <p align="center">
     <img src="assets/tela-docker.jpg" />
 </p>
 
 
+## Etapas
 
-## Sobre o Projeto
-
-Trata-se de um sistema de CRUD, projetado com o intuíto de por em pratica os conhecimentos adquiridos durante o curso.
-
-A proposta é um sistema de controle de estoque, com controle de usuários e níveis de acesso.
-
-### _Definição de CRUD_
-
-CRUD é uma abreviação das iniciais de **Create**, **Read**, **Update** e **Delete**. Que são as funcionalidades básicas principais de um sistema de software.
-
-Este projeto foi proposto durante o curso _**CRUD Básico com Bootstrap 4 , PHP e MySQL**_, criado pelo professor [Ricardo Milbrath Gonçalves](https://www.udemy.com/course/curso-basico-de-bootstrap-4-php-e-mysql-gratis/).
-
-## Tecnologias Utilizadas
-
-- [PHP 7.4.11](https://www.php.net/)
-- [MySQL](https://www.mysql.com/)
-- [Bootstrap 4](https://getbootstrap.com/)
-- [Fontawesome](https://fontawesome.com/)
+- 1. Introdução
+- 2. Conceitos
+- 3. Instalação
+- 4. Uso básico do Docker
+- 5. Deixando de ser apenas um usuário
+- 6. Redes
+- 7. Coordenando múltiplos containers
+- 8. Projeto cadastro simples (CRUD)
+- 9. Projeto de envio de emails com Workers
 
 ## Como Executar o Projeto
 
