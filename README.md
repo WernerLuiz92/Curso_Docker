@@ -4,23 +4,14 @@
 </h1>
 
 <p align="center">
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://www.cod3r.com.br/courses/docker">cod3r.com.br</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+    
+<p align="center">
     <img src="assets/tela-docker.jpg" />
 </p>
 
-<p align="center">
-    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://projetos-werner.000webhostapp.com/">CRUD Estoque</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
 
-<p align="center">
-    <a href="#bookmark-sobre-o-projeto">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#boom-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
-    <img alt="Home Page" src=".github/HomePage_Screen.png" />
-<p>
 
 ## Sobre o Projeto
 
