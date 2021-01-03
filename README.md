@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Docker" src=src="assets/docker-logo.png" height="130px" />
+    <img alt="Docker" src="assets/docker-logo.png" height="130px" />
     <br>Curso de Docker - Cod3r<br/>
 </h1>
 
