@@ -1,10 +1,10 @@
 <h1 align="center">
     <img alt="Docker" src="assets/docker-logo.png" height="130px" />
-    <br>Curso de Docker - Cod3r<br/>
+    <br>Curso de Docker<br/>
 </h1>
 
 <p align="center">
-    <img src="" />
+    <img src="assets/tela-docker.jpg" />
 </p>
 
 <p align="center">
