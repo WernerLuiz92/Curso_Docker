@@ -30,12 +30,12 @@
     <img src="assets/tela-docker.jpg" />
 </p>
 
-## Material de apoio
+## 📚 Material de apoio
 
-### Apostila
+#### 📔 Apostila
 [PDF](docs/apostila-docker.pdf)
 
-### Repositório
+#### 📂 Repositório
 [GitHub](https://github.com/cod3rcursos/curso-docker)
 
 
