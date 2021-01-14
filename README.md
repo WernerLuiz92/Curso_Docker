@@ -7,13 +7,15 @@
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://www.cod3r.com.br/courses/docker">cod3r.com.br</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+
 ## 🐳 Sobre o Docker
 
-Docker é um conjunto de produtos de plataforma como serviço (<bold>PaaS - Platform as a Service</bold>) que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração. Eles podem se comunicar uns com os outros por meio de canais bem definidos. Todos os contêineres são executados por um único kernel do sistema operacional e, portanto, usam menos recursos do que as máquinas virtuais.
+Docker é um conjunto de produtos de plataforma como serviço (<strong>PaaS - Platform as a Service</strong>) que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração. Eles podem se comunicar uns com os outros por meio de canais bem definidos. Todos os contêineres são executados por um único kernel do sistema operacional e, portanto, usam menos recursos do que as máquinas virtuais.
 
 <h1 align="center"> 
     <img alt="Container Vs. VM" src="assets/container-vs-vm.jpg" height="450px"/>
 </h1>
+
 
 ## 📖 Sobre o Curso
 
