@@ -45,25 +45,25 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 
     #### 🗒 Etapas
 
-1. Introdução ✔
-    1.1. Visão Geral ✔
-    1.2. Apresentação - Juracy Filho ✔
-    1.3. Apresentação - Leonardo Leitão ✔
-    1.4. Material de Apoio: Repositório e Apostila ✔
-    1.5. Apostila Docker ✔
-    1.6. Suporte - Boas Práticas ✔
-2. Conceitos ✔
-    2.1. O que é Docker? ✔
-    2.2. Por que não uma VM? ✔
-    2.3. O que são containers? ✔
-    2.4. O que são imagens Docker? ✔
-    2.5. Imagem vs Container ✔
-    2.6. Arquitetura ✔     
-3. Instalação ✔
-    3.1. Instalação - Visão Geral ✔
-    3.2. Instalação Windows ✔
-    3.3. Instalação Mac ✔
-    3.4. Instalação Linux ✔
+- 1. Introdução ✔
+    - 1.1. Visão Geral ✔
+    - 1.2. Apresentação - Juracy Filho ✔
+    - 1.3. Apresentação - Leonardo Leitão ✔
+    - 1.4. Material de Apoio: Repositório e Apostila ✔
+    - 1.5. Apostila Docker ✔
+    - 1.6. Suporte - Boas Práticas ✔
+- 2. Conceitos ✔
+    - 2.1. O que é Docker? ✔
+    - 2.2. Por que não uma VM? ✔
+    - 2.3. O que são containers? ✔
+    - 2.4. O que são imagens Docker? ✔
+    - 2.5. Imagem vs Container ✔
+    - 2.6. Arquitetura ✔     
+- 3. Instalação ✔
+    - 3.1. Instalação - Visão Geral ✔
+    - 3.2. Instalação Windows ✔
+    - 3.3. Instalação Mac ✔
+    - 3.4. Instalação Linux ✔
 4. Uso básico do Docker ✔
     4.1. Introdução ao Docker Client ✔
     4.2. Hello World: Meu Docker funciona! ✔
