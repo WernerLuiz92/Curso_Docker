@@ -38,7 +38,7 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 * ✔ Criar imagens com seus produtos
 * ✔ Gerenciar conjuntos de micro serviços
 
-### 🗒 Etapas
+    #### 🗒 Etapas
 
 - 1. Introdução
 - 2. Conceitos
