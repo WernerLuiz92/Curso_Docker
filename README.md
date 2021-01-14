@@ -18,6 +18,7 @@
 
 ## 🐳 Sobre o Docker
 
+<a href="#-tópicos">⤴ Voltar</a>
 Docker é um conjunto de produtos de plataforma como serviço (<strong>PaaS - Platform as a Service</strong>) que usam virtualização a nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração. Eles podem se comunicar uns com os outros por meio de canais bem definidos. Todos os contêineres são executados por um único kernel do sistema operacional e, portanto, usam menos recursos do que as máquinas virtuais.
 
 <h1 align="center"> 
@@ -28,6 +29,7 @@ Docker é um conjunto de produtos de plataforma como serviço (<strong>PaaS - Pl
 
 ## 📖 Sobre o Curso
 
+<a href="#-tópicos">⤴ Voltar</a>
 Lembra aquela frase: “Só sei que funciona na minha máquina”? O velho e bom selo de qualidade "Works On My Machine"? Pois bem, seja bem vindo ao Curso que vai acabar com essa desculpa!
 
 Detalhando um pouco mais sobre o Docker, ele tem como tarefa central manipular os "containers". Ainda vou conceituar o que é container, mas a ideia é que o seu software possa ser executado em um ambiente isolado e que fique blindado o máximo possível de interferências externas. Rapidamente você perceberá que uma classe inteira de bugs será eliminada pela padronização entre o ambiente de desenvolvimento e o ambiente produtivo que o software será executado.
@@ -40,6 +42,7 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 
 ## 💡 O que Aprendemos
 
+<a href="#-tópicos">⤴ Voltar</a>
 * ✔ Utilizar containers para simplificar seus processos
 * ✔ Publicar suas imagens em ambientes na nuvem, seja para distribuição ou execução dos serviços
 * ✔ Utilizar ferramentas diversas de integração contínua baseado em containers
@@ -155,11 +158,13 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 
 ## 🏗 Projetos
 
+<a href="#-tópicos">⤴ Voltar</a>
 1. CRUD
 2. E-mails com Workers
 
 ## 📚 Material de apoio
 
+<a href="#-tópicos">⤴ Voltar</a>
 #### 📔 Apostila
 [PDF](docs/apostila-docker.pdf)
 
@@ -169,6 +174,7 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 
 ## 📜 Licença
 
+<a href="#-tópicos">⤴ Voltar</a>
 Este repositório e seus exercícios, documentos e anotações estão sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.<br />
 
 **O conteúdo do curso (Imagens, Apostila, Repositório) estão sob licença da COD3R.COM.BR para mais detalhes entre em contato em [COD3R](https://www.cod3r.com.br/)
