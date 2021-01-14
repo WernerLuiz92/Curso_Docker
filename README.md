@@ -45,15 +45,77 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 
     #### 🗒 Etapas
 
-- 1. Introdução
-- 2. Conceitos
-- 3. Instalação
-- 4. Uso básico do Docker
-- 5. Deixando de ser apenas um usuário
-- 6. Redes
-- 7. Coordenando múltiplos containers
-- 8. Projeto cadastro simples (CRUD)
-- 9. Projeto de envio de emails com Workers
+1. Introdução ✔
+    1.1. Visão Geral ✔
+    1.2. Apresentação - Juracy Filho ✔
+    1.3. Apresentação - Leonardo Leitão ✔
+    1.4. Material de Apoio: Repositório e Apostila ✔
+    1.5. Apostila Docker ✔
+    1.6. Suporte - Boas Práticas ✔
+2. Conceitos ✔
+    2.1. O que é Docker? ✔
+    2.2. Por que não uma VM? ✔
+    2.3. O que são containers? ✔
+    2.4. O que são imagens Docker? ✔
+    2.5. Imagem vs Container ✔
+    2.6. Arquitetura ✔     
+3. Instalação ✔
+    3.1. Instalação - Visão Geral ✔
+    3.2. Instalação Windows ✔
+    3.3. Instalação Mac ✔
+    3.4. Instalação Linux ✔
+4. Uso básico do Docker ✔
+    4.1. Introdução ao Docker Client ✔
+    4.2. Hello World: Meu Docker funciona! ✔
+    4.3. Meu querido amigo run ✔
+    4.4. Ferramentas diferentes ✔
+    4.5. Run cria sempre novos containers ✔
+    4.6. Containers devem ter nomes únicos ✔
+    4.7. Reutilizar containers ✔
+    4.8. Cego, surdo e mudo, só que não! ✔
+    4.9. Mapear portas dos containers ✔
+    4.10. Mapear diretórios para o container ✔
+    4.11. Rodar um servidor web em background ✔
+    4.12. Gerenciar o container em background ✔
+    4.13. Manipulação de containers em modo daemon ✔
+    4.14. Nova sintaxe do Docker Client ✔
+5. Deixando de ser apenas um usuário ➖
+    5.1.
+    5.2.
+    5.3.
+    5.4.
+    5.5.
+    5.6.
+    5.7.
+    5.8.
+    5.9.
+    5.10.
+    5.11.
+6. Redes ➖
+    6.1.
+    6.2.
+    6.3.
+    6.4.
+7. Coordenando múltiplos containers ➖
+    7.1.
+    7.2.
+8. Projeto cadastro simples (CRUD) ➖
+    8.1.
+    8.2.
+    8.3.
+9. Projeto de envio de emails com Workers ➖
+    9.1.
+    9.2.
+    9.3.
+    9.4.
+    9.5.
+    9.6.
+    9.7.
+    9.8.
+    9.9.
+    9.10.
+    9.11.
+    
 
 <p align="center">
     <img alt="Docker, ferramenta essencial para desenvolvedores!" src="assets/tela-docker.jpg" height="400px"/>
@@ -75,7 +137,9 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 
 ## 📜 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.<br />
+Este repositório e seus exercícios, documentos e anotações estão sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.<br />
+
+**O conteúdo do curso (Imagens, Apostila, Repositório) estão sob licença da COD3R.COM.BR para mais detalhes entre em contato em [COD3R](https://www.cod3r.com.br/)
 
 ---
 
