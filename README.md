@@ -32,11 +32,11 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 
 ## 💡 O que Aprendemos
 
-✔ Utilizar containers para simplificar seus processos
-✔ Publicar suas imagens em ambientes na nuvem, seja para distribuição ou execução dos serviços
-✔ Utilizar ferramentas diversas de integração contínua baseado em containers
-✔ Criar imagens com seus produtos
-✔ Gerenciar conjuntos de micro serviços
+* ✔ Utilizar containers para simplificar seus processos
+* ✔ Publicar suas imagens em ambientes na nuvem, seja para distribuição ou execução dos serviços
+* ✔ Utilizar ferramentas diversas de integração contínua baseado em containers
+* ✔ Criar imagens com seus produtos
+* ✔ Gerenciar conjuntos de micro serviços
 
 ### 🗒 Etapas
 
