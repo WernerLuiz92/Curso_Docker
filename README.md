@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-    <a href="https://www.cod3r.com.br/courses/docker" ><img alt="COD3R" src="assets/logo-cod3r.png" height="25px" /> cod3r.com.br <img alt="COD3R" src="assets/logo-cod3r.png" height="25px" /></a>
+    <a href="https://www.cod3r.com.br/courses/docker" ><img alt="COD3R" src="assets/logo-cod3r.png" height="25px" /> COD3R.COM.BR <img alt="COD3R" src="assets/logo-cod3r.png" height="25px" /></a>
 </h1>
 
 
