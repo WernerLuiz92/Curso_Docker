@@ -56,6 +56,94 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 			<li>1.6. Suporte - Boas Práticas ✔</li>
 		</ul>
 	</li>
+	<li>2. Conceitos ✔
+		<ul>
+			<li>2.1. O que é Docker? ✔</li>
+			<li>2.2. Por que não uma VM? ✔</li>
+			<li>2.3. O que são containers? ✔</li>
+			<li>2.4. O que são imagens Docker? ✔</li>
+			<li>2.5. Imagem vs Container ✔</li>
+			<li>2.6. Arquitetura ✔</li>
+		</ul>
+	</li>
+	<li>3. Instalação ✔
+		<ul>
+			<li>3.1. Instalação - Visão Geral ✔</li>
+			<li>3.2. Instalação Windows ✔</li>
+			<li>3.3. Instalação Mac ✔</li>
+			<li>3.4. Instalação Linux ✔</li>
+		</ul>
+	</li>
+	<li>4. Uso básico do Docker ✔
+		<ul>
+			<li>4.1. Introdução ao Docker Client ✔</li>
+			<li>4.2. Hello World: Meu Docker funciona! ✔</li>
+			<li>4.3. Meu querido amigo run ✔</li>
+			<li>4.4. Ferramentas diferentes ✔</li>
+			<li>4.5. Run cria sempre novos containers ✔</li>
+			<li>4.6. Containers devem ter nomes únicos ✔</li>
+			<li>4.7. Reutilizar containers ✔</li>
+			<li>4.8. Cego, surdo e mudo, só que não! ✔</li>
+			<li>4.9. Mapear portas dos containers ✔</li>
+			<li>4.10. Mapear diretórios para o container ✔</li>
+			<li>4.11. Rodar um servidor web em background ✔</li>
+			<li>4.12. Gerenciar o container em background ✔</li>
+			<li>4.13. Manipulação de containers em modo daemon ✔</li>
+			<li>4.14. Nova sintaxe do Docker Client ✔</li>
+		</ul>
+	</li>
+	<li>5. Deixando de ser apenas um usuário ➖
+		<ul>
+			<li>5.1.</li>
+			<li>5.1.</li>
+			<li>5.1.</li>
+			<li>5.1.</li>
+			<li>5.1.</li>
+			<li>5.1.</li>
+			<li>5.1.</li>
+			<li>5.1.</li>
+			<li>5.1.</li>
+			<li>5.1.</li>
+			<li>5.1.</li>
+			<li>5.1.</li>
+		</ul>
+	</li>
+	<li>6. Redes ➖
+		<ul>
+			<li>6.1.</li>
+			<li>6.2.</li>
+			<li>6.3.</li>
+			<li>6.4.</li>
+		</ul>
+	</li>
+	<li>7. Coordenando múltiplos containers ➖
+		<ul>
+			<li>7.1.</li>
+			<li>7.2.</li>
+		</ul>
+	</li>
+	<li>8. Projeto cadastro simples (CRUD) ➖
+		<ul>
+			<li>8.1.</li>
+			<li>8.2.</li>
+			<li>8.3.</li>
+		</ul>
+	</li>
+	<li>9. Projeto de envio de emails com Workers ➖
+		<ul>
+			<li>9.1.</li>
+			<li>9.2.</li>
+			<li>9.3.</li>
+			<li>9.4.</li>
+			<li>9.5.</li>
+			<li>9.6.</li>
+			<li>9.7.</li>
+			<li>9.8.</li>
+			<li>9.9.</li>
+			<li>9.10.</li>
+			<li>9.11.</li>
+		</ul>
+	</li>
 </ul>
     
 
