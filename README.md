@@ -51,7 +51,7 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 - 9. Projeto de envio de emails com Workers
 
 <p align="center">
-    <img alt="Docker, ferramenta essencial para desenvolvedores!" src="assets/tela-docker.jpg" height="450px"/>
+    <img alt="Docker, ferramenta essencial para desenvolvedores!" src="assets/tela-docker.jpg" height="400px"/>
 </p>
 
 ## 🏗 Projetos
