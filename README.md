@@ -16,6 +16,7 @@ Docker é um conjunto de produtos de plataforma como serviço (<strong>PaaS - Pl
     <img alt="Container Vs. VM" src="assets/container-vs-vm.jpg" height="450px"/>
 </h1>
 
+<p><strong>*</strong> Contêineres são isolados, porém compartilham o Sistema Operacional Hospedeiro e, quando for apropriado, Arquivos biários e Bibliotecas. Como resultado tem um significante ganho de tempo na implementação (Deployment), muito menos sobrecarga, migração mais fácil e reinicialização mais rápida.</p>
 
 ## 📖 Sobre o Curso
 
