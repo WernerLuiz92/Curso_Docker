@@ -94,54 +94,53 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 	</li>
 	<li>5. Deixando de ser apenas um usuário ➖
 		<ul>
-			<li>5.1.</li>
-			<li>5.1.</li>
-			<li>5.1.</li>
-			<li>5.1.</li>
-			<li>5.1.</li>
-			<li>5.1.</li>
-			<li>5.1.</li>
-			<li>5.1.</li>
-			<li>5.1.</li>
-			<li>5.1.</li>
-			<li>5.1.</li>
-			<li>5.1.</li>
+			<li>5.1. Introdução ➖</li>
+			<li>5.2. Diferenças entre container e imagem ➖</li>
+			<li>5.3. Entendendo melhor as imagens ➖</li>
+			<li>5.4. Comandos básicos no gerenciamento de imagens ➖</li>
+			<li>5.5. Docker Hub × Docker Registry ➖</li>
+			<li>5.6. Meu primeiro build ➖</li>
+			<li>5.7. Uso das instruções de preparação ➖</li>
+			<li>5.8. Uso das instruções de povoamento ➖</li>
+			<li>5.9. Uso das instruções para execução do container (Parte 1) ➖</li>
+			<li>5.10. Uso das instruções para execução do container (Parte 2) ➖</li>
+			<li>5.11. Enviar Imagens para o Docker Hub ➖</li>
 		</ul>
 	</li>
 	<li>6. Redes ➖
 		<ul>
-			<li>6.1.</li>
-			<li>6.2.</li>
-			<li>6.3.</li>
-			<li>6.4.</li>
+			<li>6.1. Visão Geral e Tipos de Redes ➖</li>
+			<li>6.2. Rede Tipo None (Sem Rede) ➖</li>
+			<li>6.3. Rede Tipo Bridge ➖</li>
+			<li>6.4. Rede Tipo Host ➖</li>
 		</ul>
 	</li>
 	<li>7. Coordenando múltiplos containers ➖
 		<ul>
-			<li>7.1.</li>
-			<li>7.2.</li>
+			<li>7.1. Introdução ➖</li>
+			<li>7.2. Gerenciamento de micro service ➖</li>
 		</ul>
 	</li>
 	<li>8. Projeto cadastro simples (CRUD) ➖
 		<ul>
-			<li>8.1.</li>
-			<li>8.2.</li>
-			<li>8.3.</li>
+			<li>8.1. Estrutura Inicial ➖</li>
+			<li>8.2. Configurando Ambiente com Compose ➖</li>
+			<li>8.3. Finalizando o Cadastro ➖</li>
 		</ul>
 	</li>
 	<li>9. Projeto de envio de emails com Workers ➖
 		<ul>
-			<li>9.1.</li>
-			<li>9.2.</li>
-			<li>9.3.</li>
-			<li>9.4.</li>
-			<li>9.5.</li>
-			<li>9.6.</li>
-			<li>9.7.</li>
-			<li>9.8.</li>
-			<li>9.9.</li>
-			<li>9.10.</li>
-			<li>9.11.</li>
+			<li>9.1. Visão Geral ➖</li>
+			<li>9.2. Banco de dados ➖</li>
+			<li>9.3. Volumes ➖</li>
+			<li>9.4. Front-end ➖</li>
+			<li>9.5. Filas ➖</li>
+			<li>9.6. Proxy reverso ➖</li>
+			<li>9.7. Redes ➖</li>
+			<li>9.8. Workers ➖</li>
+			<li>9.9. Múltiplas instâncias ➖</li>
+			<li>9.10. Boas práticas - Variáveis de ambiente ➖</li>
+			<li>9.11. Override ➖</li>
 		</ul>
 	</li>
 </ul>
