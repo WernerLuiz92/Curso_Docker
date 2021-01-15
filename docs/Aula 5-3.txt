@@ -1,0 +1,31 @@
+// Baixar uma imagem
+** OBS: O comando Run executa o pull por trás, além de outros comandos.
+
+docker image pull <nome da imagem>:<tag a ser baixada>
+
+docker image pull redis:latest
+
+// Vai baixar a ultima versão do redis.
+
+------------------------------------------------
+
+// Definir uma TAG personalizada para uma imagem
+
+docker image tag <nome da imagem>:<tag a ser usada> <nova tag a ser atribuida>
+
+docker image tag redis:latest cod3r-redis
+
+// vai criar uma "cópia" da imagem do redis mais recente e atribuir a tag cod3r-redis.
+
+------------------------------------------------
+
+// Excluir uma imagem baixada
+
+docker image rm <imagem>:<tag>
+
+docker image rm redis:latest cod3r-redis
+
+// O comando acima vai excluir as duas imagens, redis:latest e cod3r-redis
+
+------------------------------------------------
+

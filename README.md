@@ -103,7 +103,7 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 			<li>5.1. Introdução ✔</li>
 			<li>5.2. Diferenças entre container e imagem ✔</li>
 			<li>5.3. Entendendo melhor as imagens ✔</li>
-			<li>5.4. Comandos básicos no gerenciamento de imagens ➖</li>
+			<li>5.4. Comandos básicos no gerenciamento de imagens ✔</li>
 			<li>5.5. Docker Hub × Docker Registry ➖</li>
 			<li>5.6. Meu primeiro build ➖</li>
 			<li>5.7. Uso das instruções de preparação ➖</li>
