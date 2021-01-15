@@ -1,0 +1,9 @@
+Docker Hub Vs Docker Registry
+
+--> Docker Registry é um serviço serverside para registro e obtenção de imagens. Disponibiliza uma API para enviar e receber imagens.
+
+--> Docker Hub é um SaaS, é um Software como serviço disponibilizado pela Docker que nada mais é do que um serviço na nuvem, que disponibiliza imagens docker. Ele contem um Registry, porém vai mais alem pois disponibiliza uma interface grafica. Além de outras funcionalidades como Imagens oficiais criadas por times especializados da Docker.
+
+** Dar Prioridade para imagens oficiais.
+
+--> Concluindo: Docker Registry e Docker Hub não são a mesma coisa. Embora o Docker Hub contenha um Docker Registry ele possui outras funcionalidades e facilidades que o Docker Registry não possui. Por outro lado, podemos criar um Docker Registry local, dentro de uma empresa por exemplo para suprir a mesma com imagens utilizadas localmente.
