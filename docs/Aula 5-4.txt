@@ -1,0 +1,45 @@
+7 principais comandos do docker
+
+1- docker image pull
+
+// Responsavel por baixar uma imagem do DockerHub
+
+** Muitas vezes está implicito em outros comandos como o docker run.
+
+------------------------------------------------
+
+2- docker image ls
+
+// Responsavel por listar as imagens baixadas
+
+------------------------------------------------
+
+3- docker image rm <nome da imagem ou tag>
+
+// Responsavel por excluir uma imagem baixada.
+
+------------------------------------------------
+
+4- docker image inspect <nome da imagem>
+
+// Mostra um arquivo JSON com as informações sobre aquela imagem.
+
+------------------------------------------------
+
+5- docker image tag <nome da imagem de origem> <nome da tag a ser atribuida>
+
+ex: docker image tag redis:latest cod3r-redis
+
+// Atribui uma tag a uma imagem.
+
+------------------------------------------------
+
+6- docker container build
+
+// Através de um arquivo construtor, gera uma imagem.
+
+------------------------------------------------
+
+7- docker image push
+
+// Após criar uma imagem, alterar ou aplicar uma tag, o comando é resposavel por enviar a imagem para o DockerHub.
