@@ -10,6 +10,9 @@
 <p align="center">
 	|&nbsp;&nbsp;&nbsp;<a href="#-projetos">🏗 Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-material-de-apoio">📚 Material de Apoio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-licen%C3%A7a">📜 Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
+<p align="center">
+	|&nbsp;&nbsp;&nbsp;<a href="#-certificado">🎓 Certificado de Conclusão</a>&nbsp;&nbsp;&nbsp;|
+</p>
 
 <h3 align="center">
     <a href="https://www.cod3r.com.br/courses/docker" ><img alt="COD3R" src="assets/logo-cod3r.png" height="18px" /> COD3R.COM.BR <img alt="COD3R" src="assets/logo-cod3r.png" height="18px" /></a>
@@ -155,6 +158,10 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 <p align="center">
     <img alt="Docker, ferramenta essencial para desenvolvedores!" src="assets/tela-docker.jpg" height="400px"/>
 </p>
+
+## 🎓 Certificado
+
+### Em andamento...
 
 ## 🏗 Projetos
 
