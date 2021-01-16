@@ -98,7 +98,7 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 			<li>4.14. Nova sintaxe do Docker Client ✔</li>
 		</ul>
 	</li>
-	<li>5. Deixando de ser apenas um usuário ➖
+	<li>5. Deixando de ser apenas um usuário ✔
 		<ul>
 			<li>5.1. Introdução ✔</li>
 			<li>5.2. Diferenças entre container e imagem ✔</li>
@@ -110,7 +110,7 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 			<li>5.8. Uso das instruções de povoamento ✔</li>
 			<li>5.9. Uso das instruções para execução do container (Parte 1) ✔</li>
 			<li>5.10. Uso das instruções para execução do container (Parte 2) ✔</li>
-			<li>5.11. Enviar Imagens para o Docker Hub ➖</li>
+			<li>5.11. Enviar Imagens para o Docker Hub ✔</li>
 		</ul>
 	</li>
 	<li>6. Redes ➖
