@@ -124,10 +124,10 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 			<li>6.4. Rede Tipo Host ✔</li>
 		</ul>
 	</li>
-	<li>7. Coordenando múltiplos containers ➖
+	<li>7. Coordenando múltiplos containers ✔
 		<ul>
-			<li>7.1. Introdução ➖</li>
-			<li>7.2. Gerenciamento de micro service ➖</li>
+			<li>7.1. Introdução ✔</li>
+			<li>7.2. Gerenciamento de micro service ✔</li>
 		</ul>
 	</li>
 	<li>8. Projeto cadastro simples (CRUD) ➖
