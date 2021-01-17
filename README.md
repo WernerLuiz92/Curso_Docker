@@ -5,10 +5,13 @@
 
 # 📑 Tópicos
 <p align="center">
-    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-sobre-o-docker">🐳 Sobre o Docker</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-sobre-o-curso">📖 Sobre o Curso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-o-que-aprendemos">💡 O que aprendemos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-sobre-o-docker">🐳 Sobre o Docker</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-sobre-o-curso">📖 Sobre o curso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-o-que-aprendemos">💡 O que aprendemos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
-	|&nbsp;&nbsp;&nbsp;<a href="#-projetos">🏗 Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-material-de-apoio">📚 Material de Apoio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-licen%C3%A7a">📜 Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	|&nbsp;&nbsp;&nbsp;<a href="#-projetos">🏗 Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-material-de-apoio">📚 Material de apoio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-licen%C3%A7a">📜 Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
+	|&nbsp;&nbsp;&nbsp;<a href="#-certificado">🎓 Certificado de conclusão</a>&nbsp;&nbsp;&nbsp;|
 </p>
 
 <h3 align="center">
@@ -27,7 +30,7 @@ Docker é um conjunto de produtos de plataforma como serviço (<strong>PaaS - Pl
 
 **->** Contêineres são isolados, porém compartilham o Sistema Operacional Hospedeiro e, quando for apropriado, Arquivos biários e Bibliotecas. Como resultado tem um significante ganho de tempo na implementação (Deployment), muito menos sobrecarga, migração mais fácil e reinicialização mais rápida.
 
-## 📖 Sobre o Curso
+## 📖 Sobre o curso
 
 <a href="#----------curso-de-docker--">⤴ Voltar</a><br />
 Lembra aquela frase: “Só sei que funciona na minha máquina”? O velho e bom selo de qualidade "Works On My Machine"? Pois bem, seja bem vindo ao Curso que vai acabar com essa desculpa!
@@ -40,7 +43,7 @@ No curso você aprenderá os principais conceitos do Docker com vários exercíc
 
 Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acompanhar nessa caminhada com o Docker, não tenho dúvida que o nível que profissionalismo dos seus ambientes será outro depois das aulas.
 
-## 💡 O que Aprendemos
+## 💡 O que aprendemos
 
 <a href="#----------curso-de-docker--">⤴ Voltar</a><br />
 * ✔ Utilizar containers para simplificar seus processos
@@ -155,6 +158,11 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 <p align="center">
     <img alt="Docker, ferramenta essencial para desenvolvedores!" src="assets/tela-docker.jpg" height="400px"/>
 </p>
+
+## 🎓 Certificado
+
+<a href="#----------curso-de-docker--">⤴ Voltar</a><br />
+#### Em andamento...
 
 ## 🏗 Projetos
 
