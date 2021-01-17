@@ -1,0 +1,15 @@
+Host Network
+
+Este é o modelo de rede onde não existe a camada bridge e os containers estão diretamente conectados ao host.
+
+
+Para instanciarmos um container com este tipo de rede, usamos o comando:
+
+docker container run -d --net host <imagem>
+    -d: Modo daemon
+    --net: Modo de rede
+    host: Tipo de rede definida.
+    <imagem>: Nome da imagem escolhida
+
+Ex:
+    docker container run -d --net host debian
