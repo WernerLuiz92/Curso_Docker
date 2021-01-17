@@ -1,0 +1,14 @@
+None Network
+
+Quando criamos um container com a rede None, temos um container isolado. Podemos acessalo via terminar e com mapeamento de volumes.
+
+Para instanciarmos um container com este tipo de rede, usamos o comando:
+
+docker container run -d --net none <imagem>
+    -d: Modo daemon
+    --net: Modo de rede
+    none: Tipo de rede definida.
+    <imagem>: Nome da imagem escolhida
+
+Ex:
+    docker container run -d --net none debian

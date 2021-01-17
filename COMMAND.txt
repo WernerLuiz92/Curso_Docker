@@ -1,0 +1,34 @@
+------------------------------------------------------------------------
+
+--rm: 
+    Remove o container logo após a execução.
+
+------------------------------------------------------------------------
+
+-d: 
+    Executa o container em modo Daemon: Executa o container em background.
+
+------------------------------------------------------------------------
+
+-p: 
+    Usado para mapear portas.
+
+    Sintaxe:    docker container run -p <Porta Local>:<Porta no Container> <imagem>
+
+    Exemplo:    docker container run -p 3001:80 nginx
+
+------------------------------------------------------------------------
+
+-v 
+    Usado para mapear volumes.
+
+    Sintaxe:    docker container run -v <Caminho Local>:<Caminho no Container>
+
+    Exemplo:    docker container run -v $(PWD)/html:/usr/share/nginx/html nginx
+
+------------------------------------------------------------------------
+
+--name
+    Define um nome para o container.
+
+------------------------------------------------------------------------
