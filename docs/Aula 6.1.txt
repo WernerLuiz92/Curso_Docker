@@ -1,0 +1,6 @@
+O Docker por padrão possui 3 tipos de redes em sua instalação.
+
+São eles:
+    Bridge: O Docker cria uma camada que servirá de ponte entre as interfaces de redes dos containers e o host
+    Host: Não existe camada de intermediação, os containers e o host estão ligados diretamente.
+    None: containers sem interface de rede, utilizados para manipulação e processamento locais.
