@@ -120,7 +120,7 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 		<ul>
 			<li>6.1. Visão Geral e Tipos de Redes ✔</li>
 			<li>6.2. Rede Tipo None (Sem Rede) ✔</li>
-			<li>6.3. Rede Tipo Bridge ➖</li>
+			<li>6.3. Rede Tipo Bridge ✔</li>
 			<li>6.4. Rede Tipo Host ➖</li>
 		</ul>
 	</li>

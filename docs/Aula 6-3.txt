@@ -1,0 +1,58 @@
+Bridge Network
+
+Este é o modelo padrão do docker. Onde cada container tenha sua interface, e o Docker cria uma camada de gerenciamento e intermedio entre o host e os containers.
+
+
+Para instanciarmos um container com este tipo de rede, usamos o comando:
+
+docker container run -d --net none <imagem>
+    -d: Modo daemon
+    --net: Modo de rede
+    none: Tipo de rede definida.
+    <imagem>: Nome da imagem escolhida
+
+Ex:
+    docker container run -d --net none debian
+
+Para inspecionar as configurações da rede Bridge seguimos os seguintes passos:
+
+    docker network ls -> Lista os modelos de network.
+    docker inspect bridge -> Exibe o arquivo em formato JSON com as informações de configuração do modo Bridge.
+
+[
+    {
+        "Name": "bridge",
+        "Id": "4a955ce97f7c14a2f3f5ffdc4a24b5d91592ae37e414836e4ad9aa48609040f3",
+        "Created": "2021-01-16T21:38:10.467071804-03:00",
+        "Scope": "local",
+        "Driver": "bridge",
+        "EnableIPv6": false,
+        "IPAM": {
+            "Driver": "default",
+            "Options": null,
+            "Config": [
+                {
+                    "Subnet": "172.17.0.0/16",
+                    "Gateway": "172.17.0.1"
+                }
+            ]
+        },
+        "Internal": false,
+        "Attachable": false,
+        "Ingress": false,
+        "ConfigFrom": {
+            "Network": ""
+        },
+        "ConfigOnly": false,
+        "Containers": {},
+        "Options": {
+            "com.docker.network.bridge.default_bridge": "true",
+            "com.docker.network.bridge.enable_icc": "true",
+            "com.docker.network.bridge.enable_ip_masquerade": "true",
+            "com.docker.network.bridge.host_binding_ipv4": "0.0.0.0",
+            "com.docker.network.bridge.name": "docker0",
+            "com.docker.network.driver.mtu": "1500"
+        },
+        "Labels": {}
+    }
+]
