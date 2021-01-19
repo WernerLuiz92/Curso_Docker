@@ -53,7 +53,10 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 * ✔ Criar imagens com seus produtos
 * ✔ Gerenciar conjuntos de micro serviços
 
-<img alt="Andamento" src="https://progress-bar.dev/81" height="35px" />
+
+
+<img alt="Andamento" src="https://progress-bar.dev/81" height="25px" />
+
 
    #### 🗒 Etapas
 
