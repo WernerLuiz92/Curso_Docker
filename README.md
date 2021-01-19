@@ -167,8 +167,8 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 ## 🏗 Projetos
 
 <a href="#----------curso-de-docker--">⤴ Voltar</a><br />
-✔ 1. Repositório - > [CRUD](https://github.com/WernerLuiz92/CRUD-Docker) <- Concluído
-🛠 2. Repositório - > [E-mails com Workers](https://github.com/WernerLuiz92/Emails-Docker) <- Em Andamento
+1. ✔ Repositório -> [CRUD](https://github.com/WernerLuiz92/CRUD-Docker) <- Concluído
+2. 🛠 Repositório -> [E-mails com Workers](https://github.com/WernerLuiz92/Emails-Docker) <- Em Andamento
 
 ## 📚 Material de apoio
 
