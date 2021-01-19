@@ -133,7 +133,7 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 	<li>8. Projeto cadastro simples (CRUD) ➖
 		<ul>
 			<li>8.1. Estrutura Inicial ✔</li>
-			<li>8.2. Configurando Ambiente com Compose ➖</li>
+			<li>8.2. Configurando Ambiente com Compose ✔</li>
 			<li>8.3. Finalizando o Cadastro ➖</li>
 		</ul>
 	</li>
