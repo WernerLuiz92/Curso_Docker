@@ -60,101 +60,101 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
    #### 🗒 Etapas
 
 <ul>
-	<li>[x] 1. Introdução ✔
+	<li>[x] 1. Introdução
 		<ul>
-			<li>[x] 1.1. Visão Geral ✔</li>
-			<li>[x] 1.2. Apresentação - Juracy Filho ✔</li>
-			<li>[x] 1.3. Apresentação - Leonardo Leitão ✔</li>
-			<li>[x] 1.4. Material de Apoio: Repositório e Apostila ✔</li>
-			<li>[x] 1.5. Apostila Docker ✔</li>
-			<li>[x] 1.6. Suporte - Boas Práticas ✔</li>
+			<li>[x] 1.1. Visão Geral</li>
+			<li>[x] 1.2. Apresentação - Juracy Filho</li>
+			<li>[x] 1.3. Apresentação - Leonardo Leitão</li>
+			<li>[x] 1.4. Material de Apoio: Repositório e Apostila</li>
+			<li>[x] 1.5. Apostila Docker</li>
+			<li>[x] 1.6. Suporte - Boas Práticas</li>
 		</ul>
 	</li>
-	<li>2. Conceitos ✔
+	<li>[x] 2. Conceitos
 		<ul>
-			<li>2.1. O que é Docker? ✔</li>
-			<li>2.2. Por que não uma VM? ✔</li>
-			<li>2.3. O que são containers? ✔</li>
-			<li>2.4. O que são imagens Docker? ✔</li>
-			<li>2.5. Imagem vs Container ✔</li>
-			<li>2.6. Arquitetura ✔</li>
+			<li>[x] 2.1. O que é Docker?</li>
+			<li>[x] 2.2. Por que não uma VM?</li>
+			<li>[x] 2.3. O que são containers?</li>
+			<li>[x] 2.4. O que são imagens Docker?</li>
+			<li>[x] 2.5. Imagem vs Container</li>
+			<li>[x] 2.6. Arquitetura</li>
 		</ul>
 	</li>
-	<li>3. Instalação ✔
+	<li>[x] 3. Instalação
 		<ul>
-			<li>3.1. Instalação - Visão Geral ✔</li>
-			<li>3.2. Instalação Windows ✔</li>
-			<li>3.3. Instalação Mac ✔</li>
-			<li>3.4. Instalação Linux ✔</li>
+			<li>[x] 3.1. Instalação - Visão Geral</li>
+			<li>[x] 3.2. Instalação Windows</li>
+			<li>[x] 3.3. Instalação Mac</li>
+			<li>[x] 3.4. Instalação Linux</li>
 		</ul>
 	</li>
-	<li>4. Uso básico do Docker ✔
+	<li>[x] 4. Uso básico do Docker
 		<ul>
-			<li>4.1. Introdução ao Docker Client ✔</li>
-			<li>4.2. Hello World: Meu Docker funciona! ✔</li>
-			<li>4.3. Meu querido amigo run ✔</li>
-			<li>4.4. Ferramentas diferentes ✔</li>
-			<li>4.5. Run cria sempre novos containers ✔</li>
-			<li>4.6. Containers devem ter nomes únicos ✔</li>
-			<li>4.7. Reutilizar containers ✔</li>
-			<li>4.8. Cego, surdo e mudo, só que não! ✔</li>
-			<li>4.9. Mapear portas dos containers ✔</li>
-			<li>4.10. Mapear diretórios para o container ✔</li>
-			<li>4.11. Rodar um servidor web em background ✔</li>
-			<li>4.12. Gerenciar o container em background ✔</li>
-			<li>4.13. Manipulação de containers em modo daemon ✔</li>
-			<li>4.14. Nova sintaxe do Docker Client ✔</li>
+			<li>[x] 4.1. Introdução ao Docker Client</li>
+			<li>[x] 4.2. Hello World: Meu Docker funciona!</li>
+			<li>[x] 4.3. Meu querido amigo run</li>
+			<li>[x] 4.4. Ferramentas diferentes</li>
+			<li>[x] 4.5. Run cria sempre novos containers</li>
+			<li>[x] 4.6. Containers devem ter nomes únicos</li>
+			<li>[x] 4.7. Reutilizar containers</li>
+			<li>[x] 4.8. Cego, surdo e mudo, só que não!</li>
+			<li>[x] 4.9. Mapear portas dos containers</li>
+			<li>[x] 4.10. Mapear diretórios para o container</li>
+			<li>[x] 4.11. Rodar um servidor web em background</li>
+			<li>[x] 4.12. Gerenciar o container em background</li>
+			<li>[x] 4.13. Manipulação de containers em modo daemon</li>
+			<li>[x] 4.14. Nova sintaxe do Docker Client</li>
 		</ul>
 	</li>
-	<li>5. Deixando de ser apenas um usuário ✔
+	<li>[x] 5. Deixando de ser apenas um usuário
 		<ul>
-			<li>5.1. Introdução ✔</li>
-			<li>5.2. Diferenças entre container e imagem ✔</li>
-			<li>5.3. Entendendo melhor as imagens ✔</li>
-			<li>5.4. Comandos básicos no gerenciamento de imagens ✔</li>
-			<li>5.5. Docker Hub × Docker Registry ✔</li>
-			<li>5.6. Meu primeiro build ✔</li>
-			<li>5.7. Uso das instruções de preparação ✔</li>
-			<li>5.8. Uso das instruções de povoamento ✔</li>
-			<li>5.9. Uso das instruções para execução do container (Parte 1) ✔</li>
-			<li>5.10. Uso das instruções para execução do container (Parte 2) ✔</li>
-			<li>5.11. Enviar Imagens para o Docker Hub ✔</li>
+			<li>[x] 5.1. Introdução</li>
+			<li>[x] 5.2. Diferenças entre container e imagem</li>
+			<li>[x] 5.3. Entendendo melhor as imagens</li>
+			<li>[x] 5.4. Comandos básicos no gerenciamento de imagens</li>
+			<li>[x] 5.5. Docker Hub × Docker Registry</li>
+			<li>[x] 5.6. Meu primeiro build</li>
+			<li>[x] 5.7. Uso das instruções de preparação</li>
+			<li>[x] 5.8. Uso das instruções de povoamento</li>
+			<li>[x] 5.9. Uso das instruções para execução do container (Parte 1)</li>
+			<li>[x] 5.10. Uso das instruções para execução do container (Parte 2)</li>
+			<li>[x] 5.11. Enviar Imagens para o Docker Hub</li>
 		</ul>
 	</li>
-	<li>6. Redes ✔
+	<li>[x] 6. Redes
 		<ul>
-			<li>6.1. Visão Geral e Tipos de Redes ✔</li>
-			<li>6.2. Rede Tipo None (Sem Rede) ✔</li>
-			<li>6.3. Rede Tipo Bridge ✔</li>
-			<li>6.4. Rede Tipo Host ✔</li>
+			<li>[x] 6.1. Visão Geral e Tipos de Redes</li>
+			<li>[x] 6.2. Rede Tipo None (Sem Rede)</li>
+			<li>[x] 6.3. Rede Tipo Bridge</li>
+			<li>[x] 6.4. Rede Tipo Host</li>
 		</ul>
 	</li>
-	<li>7. Coordenando múltiplos containers ✔
+	<li>[x] 7. Coordenando múltiplos containers
 		<ul>
-			<li>7.1. Introdução ✔</li>
-			<li>7.2. Gerenciamento de micro service ✔</li>
+			<li>[x] 7.1. Introdução</li>
+			<li>[x] 7.2. Gerenciamento de micro service</li>
 		</ul>
 	</li>
-	<li>8. Projeto cadastro simples (CRUD) ✔
+	<li>[x] 8. Projeto cadastro simples (CRUD)
 		<ul>
-			<li>8.1. Estrutura Inicial ✔</li>
-			<li>8.2. Configurando Ambiente com Compose ✔</li>
-			<li>8.3. Finalizando o Cadastro ✔</li>
+			<li>[x] 8.1. Estrutura Inicial</li>
+			<li>[x] 8.2. Configurando Ambiente com Compose</li>
+			<li>[x] 8.3. Finalizando o Cadastro</li>
 		</ul>
 	</li>
-	<li>9. Projeto de envio de emails com Workers ➖
+	<li>[ ] 9. Projeto de envio de emails com Workers
 		<ul>
-			<li>9.1. Visão Geral ➖</li>
-			<li>9.2. Banco de dados ➖</li>
-			<li>9.3. Volumes ➖</li>
-			<li>9.4. Front-end ➖</li>
-			<li>9.5. Filas ➖</li>
-			<li>9.6. Proxy reverso ➖</li>
-			<li>9.7. Redes ➖</li>
-			<li>9.8. Workers ➖</li>
-			<li>9.9. Múltiplas instâncias ➖</li>
-			<li>9.10. Boas práticas - Variáveis de ambiente ➖</li>
-			<li>9.11. Override ➖</li>
+			<li>[ ] 9.1. Visão Geral</li>
+			<li>[ ] 9.2. Banco de dados</li>
+			<li>[ ] 9.3. Volumes</li>
+			<li>[ ] 9.4. Front-end</li>
+			<li>[ ] 9.5. Filas</li>
+			<li>[ ] 9.6. Proxy reverso</li>
+			<li>[ ] 9.7. Redes</li>
+			<li>[ ] 9.8. Workers</li>
+			<li>[ ] 9.9. Múltiplas instâncias</li>
+			<li>[ ] 9.10. Boas práticas - Variáveis de ambiente</li>
+			<li>[ ] 9.11. Override</li>
 		</ul>
 	</li>
 </ul>
