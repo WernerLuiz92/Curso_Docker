@@ -55,14 +55,14 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
     #### 🗒 Etapas
 
 <ul>
-	<li>1. Introdução ✔
+	<li>[x] 1. Introdução ✔
 		<ul>
-			<li>1.1. Visão Geral ✔</li>
-			<li>1.2. Apresentação - Juracy Filho ✔</li>
-			<li>1.3. Apresentação - Leonardo Leitão ✔</li>
-			<li>1.4. Material de Apoio: Repositório e Apostila ✔</li>
-			<li>1.5. Apostila Docker ✔</li>
-			<li>1.6. Suporte - Boas Práticas ✔</li>
+			<li>[x] 1.1. Visão Geral ✔</li>
+			<li>[x] 1.2. Apresentação - Juracy Filho ✔</li>
+			<li>[x] 1.3. Apresentação - Leonardo Leitão ✔</li>
+			<li>[x] 1.4. Material de Apoio: Repositório e Apostila ✔</li>
+			<li>[x] 1.5. Apostila Docker ✔</li>
+			<li>[x] 1.6. Suporte - Boas Práticas ✔</li>
 		</ul>
 	</li>
 	<li>2. Conceitos ✔
