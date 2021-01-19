@@ -2,6 +2,9 @@
     <img alt="Docker" src="assets/docker-logo.png" height="130px" />
     <br>📚 🐳 Curso de Docker 🐳 📚<br/>
 </h1>
+<p align="center">
+	<img alt="Andamento" src="https://progress-bar.dev/81" height="25px" />
+</p>
 
 # 📑 Tópicos
 <p align="center">
@@ -52,10 +55,6 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 * ✔ Utilizar ferramentas diversas de integração contínua baseado em containers
 * ✔ Criar imagens com seus produtos
 * ✔ Gerenciar conjuntos de micro serviços
-
-
-
-<img alt="Andamento" src="https://progress-bar.dev/81" height="25px" />
 
 
    #### 🗒 Etapas
