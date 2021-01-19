@@ -130,11 +130,11 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 			<li>7.2. Gerenciamento de micro service ✔</li>
 		</ul>
 	</li>
-	<li>8. Projeto cadastro simples (CRUD) ➖
+	<li>8. Projeto cadastro simples (CRUD) ✔
 		<ul>
 			<li>8.1. Estrutura Inicial ✔</li>
 			<li>8.2. Configurando Ambiente com Compose ✔</li>
-			<li>8.3. Finalizando o Cadastro ➖</li>
+			<li>8.3. Finalizando o Cadastro ✔</li>
 		</ul>
 	</li>
 	<li>9. Projeto de envio de emails com Workers ➖
