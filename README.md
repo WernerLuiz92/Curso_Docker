@@ -10,6 +10,7 @@
 <p align="center">
 	|&nbsp;&nbsp;&nbsp;<a href="#-projetos">🏗 Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-material-de-apoio">📚 Material de apoio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-licen%C3%A7a">📜 Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
+
 <p align="center">
 	|&nbsp;&nbsp;&nbsp;<a href="#-certificado">🎓 Certificado de conclusão</a>&nbsp;&nbsp;&nbsp;|
 </p>
@@ -52,9 +53,9 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 * ✔ Criar imagens com seus produtos
 * ✔ Gerenciar conjuntos de micro serviços
 
-	### ![81%](https://progress-bar.dev/81)
+<img alt="Andamento" src="https://progress-bar.dev/81" height="35px" />
 
-    #### 🗒 Etapas
+   #### 🗒 Etapas
 
 <ul>
 	<li>1. Introdução ✔
