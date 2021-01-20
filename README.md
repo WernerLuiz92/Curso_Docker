@@ -3,7 +3,7 @@
     <br>📚 🐳 Curso de Docker 🐳 📚<br/>
 </h1>
 <p align="center">
-	<img alt="Andamento" src="https://progress-bar.dev/83" height="25px" />
+	<img alt="Andamento" src="https://progress-bar.dev/85" height="25px" />
 </p>
 
 # 📑 Tópicos
@@ -145,7 +145,7 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 	<li>[ ] 9. Projeto de envio de emails com Workers
 		<ul>
 			<li>[x] 9.1. Visão Geral</li>
-			<li>[ ] 9.2. Banco de dados</li>
+			<li>[x] 9.2. Banco de dados</li>
 			<li>[ ] 9.3. Volumes</li>
 			<li>[ ] 9.4. Front-end</li>
 			<li>[ ] 9.5. Filas</li>
