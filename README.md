@@ -2,8 +2,9 @@
     <img alt="Docker" src="assets/docker-logo.png" height="130px" />
     <br>📚 🐳 Curso de Docker 🐳 📚<br/>
 </h1>
+
 <p align="center">
-	🎓🎉 <img alt="Andamento" src="https://progress-bar.dev/100" height="25px" />🎉🎓
+	<img alt="Andamento" src="https://progress-bar.dev/100" height="25px" />
 </p>
 
 # 📑 Tópicos
