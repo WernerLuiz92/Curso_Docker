@@ -3,7 +3,7 @@
     <br>📚 🐳 Curso de Docker 🐳 📚<br/>
 </h1>
 <p align="center">
-	<img alt="Andamento" src="https://progress-bar.dev/96" height="25px" />
+	<img alt="Andamento" src="https://progress-bar.dev/98" height="25px" />
 </p>
 
 # 📑 Tópicos
@@ -153,7 +153,7 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 			<li>[x] 9.7. Redes</li>
 			<li>[x] 9.8. Workers</li>
 			<li>[x] 9.9. Múltiplas instâncias</li>
-			<li>[ ] 9.10. Boas práticas - Variáveis de ambiente</li>
+			<li>[x] 9.10. Boas práticas - Variáveis de ambiente</li>
 			<li>[ ] 9.11. Override</li>
 		</ul>
 	</li>
