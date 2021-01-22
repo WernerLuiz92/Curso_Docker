@@ -3,7 +3,7 @@
     <br>📚 🐳 Curso de Docker 🐳 📚<br/>
 </h1>
 <p align="center">
-	<img alt="Andamento" src="https://progress-bar.dev/98" height="25px" />
+	🎓🎉 <img alt="Andamento" src="https://progress-bar.dev/100" height="25px" />🎉🎓
 </p>
 
 # 📑 Tópicos
@@ -142,7 +142,7 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 			<li>[x] 8.3. Finalizando o Cadastro</li>
 		</ul>
 	</li>
-	<li>[ ] 9. Projeto de envio de emails com Workers
+	<li>[x] 9. Projeto de envio de emails com Workers
 		<ul>
 			<li>[x] 9.1. Visão Geral</li>
 			<li>[x] 9.2. Banco de dados</li>
@@ -154,7 +154,7 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 			<li>[x] 9.8. Workers</li>
 			<li>[x] 9.9. Múltiplas instâncias</li>
 			<li>[x] 9.10. Boas práticas - Variáveis de ambiente</li>
-			<li>[ ] 9.11. Override</li>
+			<li>[x] 9.11. Override</li>
 		</ul>
 	</li>
 </ul>
