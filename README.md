@@ -170,7 +170,7 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 <a href="#----------curso-de-docker--">⤴ Voltar</a><br />
 
 <h1 align="center"> 
-    <img alt="Certificado de Conclusão" src="assets/certificate.jpg" height="550px"/>
+    <img alt="Certificado de Conclusão" src="assets/certificate.jpg" height="750px"/>
 </h1>
 
 Validar Certificado: [Clique Aqui](https://www.cod3r.com.br/certificates/vlgmsudifa)
