@@ -168,13 +168,19 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 ## 🎓 Certificado
 
 <a href="#----------curso-de-docker--">⤴ Voltar</a><br />
-#### Em andamento...
+
+[PDF](docs/Werner Luiz Gottschalt - 2021-01-22.pdf)
+
+<h1 align="center"> 
+    <img alt="Certificado de Conclusão" src="assets/certificate-111199554.jpg" height="450px"/>
+</h1>
+Validar Certificado: [Clique Aqui](https://www.cod3r.com.br/certificates/vlgmsudifa)
 
 ## 🏗 Projetos
 
 <a href="#----------curso-de-docker--">⤴ Voltar</a><br />
 1. ✔ Repositório -> [CRUD](https://github.com/WernerLuiz92/CRUD-Docker) <- Concluído
-2. 🛠 Repositório -> [E-mails com Workers](https://github.com/WernerLuiz92/Emails-Docker) <- Em Andamento
+2. ✔ Repositório -> [E-mails com Workers](https://github.com/WernerLuiz92/Emails-Docker) <- Concluído
 
 ## 📚 Material de apoio
 
