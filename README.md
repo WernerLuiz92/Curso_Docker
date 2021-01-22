@@ -3,7 +3,7 @@
     <br>📚 🐳 Curso de Docker 🐳 📚<br/>
 </h1>
 <p align="center">
-	<img alt="Andamento" src="https://progress-bar.dev/91" height="25px" />
+	<img alt="Andamento" src="https://progress-bar.dev/93" height="25px" />
 </p>
 
 # 📑 Tópicos
@@ -150,7 +150,7 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 			<li>[x] 9.4. Front-end</li>
 			<li>[x] 9.5. Filas</li>
 			<li>[x] 9.6. Proxy reverso</li>
-			<li>[ ] 9.7. Redes</li>
+			<li>[x] 9.7. Redes</li>
 			<li>[ ] 9.8. Workers</li>
 			<li>[ ] 9.9. Múltiplas instâncias</li>
 			<li>[ ] 9.10. Boas práticas - Variáveis de ambiente</li>
