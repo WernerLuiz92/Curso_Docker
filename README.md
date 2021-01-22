@@ -175,7 +175,7 @@ Para finalizar, quero convidar você que é desenvolvedor, DevOps, para nos acom
 
 Validar Certificado: [Clique Aqui](https://www.cod3r.com.br/certificates/vlgmsudifa)
 
-<img alt="certificate logo" src="assets/certificate.png" height="18px" /> [PDF](docs/certificate.pdf)
+<img alt="certificate logo" src="assets/certificate.png" height="22px" /> [PDF](docs/certificate.pdf)
 
 ## 🏗 Projetos
 
