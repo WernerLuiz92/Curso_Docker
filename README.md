@@ -12,11 +12,7 @@
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-sobre-o-docker">🐳 Sobre o Docker</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-sobre-o-curso">📖 Sobre o curso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-o-que-aprendemos">💡 O que aprendemos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
-	|&nbsp;&nbsp;&nbsp;<a href="#-projetos">🏗 Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-licen%C3%A7a">📜 Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="center">
-	|&nbsp;&nbsp;&nbsp;<a href="#-certificado">🎓 Certificado de conclusão</a>&nbsp;&nbsp;&nbsp;|
+	|&nbsp;&nbsp;&nbsp;<a href="#-projetos">🏗 Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-licen%C3%A7a">📜 Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-certificado">🎓 Certificado de conclusão</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="center">
