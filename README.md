@@ -12,7 +12,7 @@
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-sobre-o-docker">🐳 Sobre o Docker</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-sobre-o-curso">📖 Sobre o curso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-o-que-aprendemos">💡 O que aprendemos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
-	|&nbsp;&nbsp;&nbsp;<a href="#-projetos">🏗 Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-material-de-apoio">📚 Material de apoio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-licen%C3%A7a">📜 Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	|&nbsp;&nbsp;&nbsp;<a href="#-projetos">🏗 Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-licen%C3%A7a">📜 Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -182,15 +182,6 @@ Validar Certificado: [Clique Aqui](https://www.cod3r.com.br/certificates/vlgmsud
 <a href="#----------curso-de-docker--">⤴ Voltar</a><br />
 1. ✔ Repositório -> [CRUD](https://github.com/WernerLuiz92/CRUD-Docker) <- Concluído
 2. ✔ Repositório -> [E-mails com Workers](https://github.com/WernerLuiz92/Emails-Docker) <- Concluído
-
-## 📚 Material de apoio
-
-<a href="#----------curso-de-docker--">⤴ Voltar</a><br />
-#### 📔 Apostila
-[PDF](docs/apostila-docker.pdf)
-
-#### 📂 Repositório
-[GitHub](https://github.com/cod3rcursos/curso-docker)
 
 
 ## 📜 Licença
